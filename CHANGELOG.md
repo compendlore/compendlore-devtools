@@ -6,6 +6,8 @@ All notable changes to the Compendlore public developer tools are recorded here.
 
 ### Added
 
+- Added automated dependency maintenance for npm and GitHub Actions.
+
 - Created the public developer-tools repository.
 - Added the addon compiler and local development manager foundations.
 - Added repository-wide formatting, linting, type checking, tests, and dependency audits.
