@@ -1,0 +1,14 @@
+{
+	"layers": [
+		{
+			"name": "addon-compiler",
+			"paths": ["packages/addon-compiler/"],
+			"mayImport": []
+		},
+		{
+			"name": "dev-manager",
+			"paths": ["packages/dev-manager/"],
+			"mayImport": []
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"files": [],
+	"references": [
+		{
+			"path": "packages/addon-compiler"
+		},
+		{
+			"path": "packages/dev-manager"
+		}
+	]
+}
