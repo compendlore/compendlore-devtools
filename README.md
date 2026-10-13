@@ -6,6 +6,10 @@ Public developer tools for Compendlore. This repository contains the addon compi
 development manager. It must not contain official signing keys, deployment credentials, or release
 automation reserved for maintainers.
 
+The tools are proprietary source-available software, not software under an OSI-approved open-source
+license. Private use, contribution forks, services, and redistribution are governed by `LICENSE.md`.
+`CLA.md` is not active pending legal review.
+
 ### Commands
 
 - `npm run pretty`: format the repository;
@@ -19,6 +23,11 @@ automation reserved for maintainers.
 Outils publics destinés aux développeurs Compendlore. Ce dépôt contient le compilateur d’addons et
 le gestionnaire de développement local. Il ne doit contenir aucune clé de signature officielle,
 aucun identifiant de déploiement et aucune automatisation de release réservée aux mainteneurs.
+
+Les outils sont des logiciels propriétaires à code source accessible, et non des logiciels sous
+licence open source approuvée par l’OSI. L’usage privé, les forks de contribution, les prestations
+et la redistribution sont régis par `LICENSE.md`. `CLA.md` n’est pas actif dans l’attente d’une
+validation juridique.
 
 ### Commandes
 
