@@ -24,6 +24,13 @@ public-contract changes may require two approvals.
 `dev` is the integration branch. `main` only receives an explicitly validated promotion from `dev`
 for a stable release or an approved hotfix.
 
+### Dependency updates
+
+Dependency version changes are planned development work. They must be proposed by a developer,
+reviewed for compatibility, and validated through the normal pull request process. Automated
+dependency version-update pull requests are not used. Security alerts and security-update pull
+requests remain available without changing a dependency for routine maintenance.
+
 ### Documentation
 
 Repository Markdown must be necessary to use, secure, license, or contribute to the project. It must
@@ -59,6 +66,14 @@ exiger deux approbations.
 
 `dev` est la branche d’intégration. `main` reçoit uniquement une promotion explicitement validée
 depuis `dev` pour une version stable ou un correctif urgent approuvé.
+
+### Mise à jour des dépendances
+
+Les changements de version des dépendances sont des travaux de développement planifiés. Ils doivent
+être proposés par un développeur, vérifiés pour leur compatibilité et validés par le processus
+normal de pull request. Les pull requests automatiques de mise à jour de versions ne sont pas
+utilisées. Les alertes et pull requests de sécurité restent disponibles sans modifier une dépendance
+pour sa maintenance courante.
 
 ### Documentation
 
